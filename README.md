@@ -1,5 +1,5 @@
 # reddit-usage-analysis
-Analyzes reddit commenting on a per user basos (barely analysis)
+Analyzes reddit commenting on a per user basis (barely analysis)
 
 ## Installation
 **Requirements**: argparsem, plotly, pandas
