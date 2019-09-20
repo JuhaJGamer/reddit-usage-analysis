@@ -5,7 +5,7 @@ import argparse
 import csv
 import datetime
 
-parser = argparse.ArgumentParser(description='Visualize analysis f trends in reddit usage')
+parser = argparse.ArgumentParser(description='Visualize analysis of trends in reddit usage')
 parser.add_argument('file',type=argparse.FileType('r'),help='CSV to chart"')
 parser.add_argument('-a','--average-only',action='store_true',help='Only show average values',default=False)
 parser.add_argument('-e','--exact-only',action='store_true',help='Only show exact values',default=False)
