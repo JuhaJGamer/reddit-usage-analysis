@@ -14,7 +14,7 @@ Analyzes reddit commenting on a per user basis (barely analysis)
   3. Install requirements using pip  
   ```$ python3 -m pip install -r requirements.txt```
   
-  4. Run a script to test that it works  
+  4. Run a command to test that it works (i should maybe get an inactive account and make automated tests but meh)
   ```$ python3 redditscraper2.py -l 100 -a juhajgam3r +r+programmerhumor```
 
 
